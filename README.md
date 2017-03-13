@@ -14,4 +14,7 @@ Donderdag 09-03-2017: Backoffice opdracht 2 afgerond.<br>
 Taak: Het maken van een invulformulier doormiddel van controls in VisualStudio.<br>
 <br>
 Donderdag 09-03-2017: Backoffice opdracht 2 nagekeken door Dhr. van de Woord.<br>
-Donderdag 09-03-2017: Backoffice opdracht 2 toegevoegd op Git & Ingeleverd.a<br>
+Donderdag 09-03-2017: Backoffice opdracht 2 toegevoegd op Git & Ingeleverd.<br>
+<br>
+Maandag 13-03-2017: Backoffice opdracht 3 nagekeken door Dhr. van de Woord. <br>
+Maandag 13-03-2017: Backoffice opdracht 3 toegevoegd op Git & Ingeleverd.
