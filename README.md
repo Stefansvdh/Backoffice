@@ -15,6 +15,8 @@ Taak: Het maken van een invulformulier doormiddel van controls in VisualStudio.<
 <br>
 Donderdag 09-03-2017: Backoffice opdracht 2 nagekeken door Dhr. van de Woord.<br>
 Donderdag 09-03-2017: Backoffice opdracht 2 toegevoegd op Git & Ingeleverd.<br>
+Taak: Het weergeven van de datum & leeftijd D.M.V een Kalender. <br>
 <br>
 Maandag 13-03-2017: Backoffice opdracht 3 nagekeken door Dhr. van de Woord. <br>
-Maandag 13-03-2017: Backoffice opdracht 3 toegevoegd op Git & Ingeleverd.
+Maandag 13-03-2017: Backoffice opdracht 3 toegevoegd op Git & Ingeleverd.<br>
+Taak: Het weergeven van de datum & tijd van vandaag. Het maken van een Countdown tot pasen.<br>
