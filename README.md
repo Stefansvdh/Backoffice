@@ -24,3 +24,7 @@ Taak: Het weergeven van de datum & leeftijd D.M.V een Kalender. <br>
 Maandag 13-03-2017: Backoffice opdracht 4 Afgerond & nagekeken door Dhr. van de Woord. <br>
 Maandag 13-03-2017: Backoffice opdracht 4 toegevoegd op Git & Ingeleverd.<br>
 Taak: Het weergeven van de datum & tijd van vandaag. Het maken van een Countdown tot pasen.<br>
+<br>
+Donderdag 23-03-2017: Backoffice opdracht 5 Afgerond & nagekeken door Dhr. van de Woord. <br>
+Donderdag 23-03-2017: Backoffice opdracht 5 toegevoegd op Git & Ingeleverd. <br>
+Taak: Het kunnen toepassen van verschillende 'validators'.
