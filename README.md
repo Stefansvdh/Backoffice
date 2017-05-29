@@ -27,4 +27,6 @@ Taak: Het weergeven van de datum & tijd van vandaag. Het maken van een Countdown
 <br>
 Donderdag 23-03-2017: Backoffice opdracht 5 Afgerond & nagekeken door Dhr. van de Woord. <br>
 Donderdag 23-03-2017: Backoffice opdracht 5 toegevoegd op Git & Ingeleverd. <br>
-Taak: Het kunnen toepassen van verschillende 'validators'.
+Taak: Het kunnen toepassen van verschillende 'validators'.<br>
+<br>
+Maandag 29-05-2017: Backoffice opdrachten 6 t/m 8 toegevoegd op Git, Nagekeken & Ingeleverd. <br>
